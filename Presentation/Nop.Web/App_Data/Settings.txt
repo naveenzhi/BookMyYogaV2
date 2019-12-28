@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=sharedmssql4.znetindia.net,1234;Initial Catalog=OAT_BookMyYoga_V12;Integrated Security=False;Persist Security Info=False;User ID=Bookmyyoga_user;Password=Bookmyyoga_User@143
